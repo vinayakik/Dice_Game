@@ -1,0 +1,31 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #474c55;
+    color:#4ECCA3;
+    font-family: 'Lobster', cursive;
+}
+.game{
+    padding: 0% 5%;
+    text-align: center;
+}
+h1{
+    font-size: 5rem;
+    margin-bottom: auto;
+    font-weight: bolder;
+    
+}
+.dice{
+    display: inline-block;
+    margin: 1% 2%;
+}
+.dice p{
+    font-size: 2rem;
+}
+
+.btn{
+    display: block;
+    margin: auto;
+    padding: 1% 2%;
+    font-size: 1rem;
+}
